@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @havenbeats1
-- 👀 I’m interested in Coding, Music, Family, Drumming, and Gaming!
+- 👀 I’m interested in Coding, Music, Drumming, and Gaming!
 - 🌱 I’m currently learning JavaScript, TypeScript and React.
 - 💞️ I’m looking to collaborate on ANYTHING!
 - 📫 havenbeats1@gmail.com
